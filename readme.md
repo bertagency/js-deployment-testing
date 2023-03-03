@@ -143,7 +143,7 @@ The Branch will still exist
 
 ## Appendix
 
-### To run code locally using VScode
+
 
 ### Reference
 [https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
@@ -156,3 +156,19 @@ The Branch will still exist
 - 1.5.0 Minor Version - Minor changes - does not break API. Eg improvements and non breaking new features.
 - 1.5.2 Patch - bug fixes
 
+### Running Code Locally
+- Check Live Preview by Microsoft is installed
+- Click Go Live
+- Scripts for example will be accessible by adding the following to any web project:
+`<script defer src="http://localhost:5500/{FILE_PATH}.js"></script>`
+
+### Tools
+
+### VSCode Extensions we use
+
+#### Live Preview by Microsoft
+- To run code locally using VScode
+
+#### Prettier
+
+#### ESLint
