@@ -14,7 +14,7 @@ This Documentation aims to explain the following procedures for a simple minimum
 - Github
 - jsDeliver
 
-## Creating the Repo and setting up Version Control
+# Creating the Repo and setting up Version Control
 
 ### In Bert Github Account
 
@@ -71,7 +71,7 @@ https://www.jsdelivr.com/tools/purge
 ### Reference:
 [https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)
 
-## Collaboration
+# Collaboration
 
 ### To add a collaborator (eg remote freelancer)
 #### In Github Website Repo
@@ -141,8 +141,7 @@ All changes from the Branch will be merged with the Main Branch
 The Branch will still exist
 
 
-## Appendix
-
+# Appendix
 
 
 ### Reference
