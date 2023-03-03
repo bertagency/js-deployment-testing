@@ -9,6 +9,7 @@
 - Visual Studio Code
 - Github Desktop
 - Github
+- jsDeliver
 
 ## Creating the Repo and setting up Version Control
 
